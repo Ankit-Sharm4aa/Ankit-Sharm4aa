@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=auto&text=Hey%20Everyone%20!&section=header&reversal=false&textBg=false&animation=fadeIn"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=Hey%20Everyone%20!&section=header&reversal=false&textBg=false&animation=fadeIn"></p>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Weather App**
