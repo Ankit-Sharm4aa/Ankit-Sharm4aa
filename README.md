@@ -9,10 +9,12 @@
 
 - 📫 How to reach me **ankitprocs1.6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gxmKa3RjeTrs4-nsnYfKAXPLZqtX_N-5/view?usp=sharing](https://drive.google.com/file/d/1gxmKa3RjeTrs4-nsnYfKAXPLZqtX_N-5/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1gxmKa3RjeTrs4-nsnYfKAXPLZqtX_N-5/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/https://codepen.io/anki1-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anki1-sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-sharma-94812a194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-sharma-94812a194/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
