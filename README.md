@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Sharma</h1>
+https://capsule-render.vercel.app/api?type=rect&height=150&color=auto&text=Hey%20Everyone%20!&section=header&reversal=false&textBg=false&animation=fadeIn
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Weather App**
