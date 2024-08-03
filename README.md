@@ -17,7 +17,7 @@ fields_of_interests:
 "Game Development"
 ]
 
-current_learning: ["ReactJS, NextJS,"]
+currently_learning: ["ReactJS, NextJS,"]
 hobbies: ["Gaming", "Listening Music","Football"]
 ```
 <h3 align="left">🚀 Tools & Languages</h3><hr/>
