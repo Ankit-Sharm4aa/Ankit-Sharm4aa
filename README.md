@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hey%20Everyone%20!&section=header&reversal=false&textBg=false&animation=fadeIn"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=gradient&text=Hey%20Everyone%20!&section=header&reversal=false&textBg=false&animation=fadeIn&fontColor=F0EAD6"></p>
 <h3 align="left">👨‍💻 About Me</h3><hr/>
 
 ```yaml
