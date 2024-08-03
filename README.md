@@ -12,9 +12,8 @@
 - 📄 Know about my experiences https://drive.google.com/file/d/1gxmKa3RjeTrs4-nsnYfKAXPLZqtX_N-5/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">'<a href="https://www.linkedin.com/in/ankitsharma83/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ankitsharma83/" /></a>
 <a href="https://codepen.io/https://codepen.io/anki1-sharma" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="https://codepen.io/anki1-sharma"/></a>
-<a href="https://www.linkedin.com/in/ankitsharma83/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ankitsharma83/" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
